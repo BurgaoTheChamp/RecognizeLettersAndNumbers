@@ -16,3 +16,4 @@ emnist-letters-train.csv
 emnist-mnist-mapping.txt
 emnist-mnist-test.csv
 emnist-mnist-train.csv
+DigitsCollection.csv
